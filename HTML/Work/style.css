@@ -1,0 +1,39 @@
+  /*tag name*/
+  nav{
+    background-color: aquamarine;
+    height: 50px;
+}
+
+/*class*/
+.gomy{
+    display: flex;
+    justify-content: space-between;
+}
+
+/*id*/
+#anch{
+   text-decoration: none;
+}
+
+li{
+    padding: 20px;
+}
+
+
+/* margin is used to move content around the page*/
+/* padding: is used to move content around the page from the inside. */
+/* background-color: gives the content a background color */
+/* color gives the content(text) a color. */
+/* display-flex: aligns items horizontally. */
+/* justify-content: space-between: spaces the content evenly across the screen */
+/* justify-content: space-evenly: spaces the content evenly across the screen while placing them in the centre */
+/* height: gives the content a height */
+/* width: gives the content a width */
+/* background-image: url(): inserts an imag as the background */
+/* list-style:none: removes the styling attached to the lists */
+/* text-decoration: none: removes the styling attached to the texts */
+/* background-size: increases or reduces the background size of the content */
+/* font-size: determines the size of thr texts */
+/* font-weight: determines the thickness of texts */
+/* border: gives or removes a content's border */
+/* text-align: center: moves a piece of text to the centre of the page. */
